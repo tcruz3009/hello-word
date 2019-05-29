@@ -1,2 +1,2 @@
 # hello-word
-hello word git
+treinamento hello word no git
